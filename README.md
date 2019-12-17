@@ -2,7 +2,7 @@
 This repository contains the reference code for the paper "M²: Meshed-Memory Transformer for Image Captioning".
 
 <p align="center">
-  <img src="images/m2.png" alt="Meshed-Memory Transformer" width="240"/>
+  <img src="images/m2.png" alt="Meshed-Memory Transformer" width="320"/>
 </p>
 
 ## Environment setup
