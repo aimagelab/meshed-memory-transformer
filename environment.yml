@@ -53,7 +53,6 @@ dependencies:
     - cycler==0.10.0
     - cymem==1.31.2
     - cytoolz==0.9.0.1
-    - en-core-web-sm==2.0.0
     - future==0.17.1
     - grpcio==1.25.0
     - h5py==2.8.0
