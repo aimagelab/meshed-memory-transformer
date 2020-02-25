@@ -1,6 +1,16 @@
 # M²: Meshed-Memory Transformer
-This repository contains the reference code for the paper _[M²: Meshed-Memory Transformer for Image Captioning](https://arxiv.org/abs/1912.08226)_.
+This repository contains the reference code for the paper _[M²: Meshed-Memory Transformer for Image Captioning](https://arxiv.org/abs/1912.08226)_ (CVPR 2020).
 
+Please cite with the following BibTeX:
+
+```
+@inproceedings{cornia2020m2,
+  title={{$\mathcal{M}^2$: Meshed-Memory Transformer for Image Captioning}},
+  author={Cornia, Marcella and Stefanini, Matteo and Baraldi, Lorenzo and Cucchiara, Rita},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  year={2020}
+}
+```
 <p align="center">
   <img src="images/m2.png" alt="Meshed-Memory Transformer" width="320"/>
 </p>
